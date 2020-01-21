@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var x:String = "Dhanabal"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
